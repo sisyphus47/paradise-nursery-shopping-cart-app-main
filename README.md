@@ -11,7 +11,7 @@ Paradise Nursery is a fictional online plant store where users can:
 - Add or remove items from the shopping cart 🛒
 - View and manage the cart contents with real-time updates 🔄
 
-The app is fully responsive, functional, and deployed on Github Pages.
+The app is fully responsive, functional, and deployed on Vercel.
 
 ---
 
@@ -21,13 +21,13 @@ The app is fully responsive, functional, and deployed on Github Pages.
 - **JavaScript (ES6+)** for logic
 - **React** for component-based UI development
 - **Redux** for state management (e.g., cart functionality)
-- **Github Pages** for deployment
+- **Vercel** for deployment
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://sisyphus47.github.io/paradise-nursery-shopping-cart-app-main/)  
+👉 [Click here to try the app](https://paradise-nursery-shopping-cart-app-alpha.vercel.app/)  
 
 
 ---
